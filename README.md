@@ -28,11 +28,13 @@ And change 8080 for 8081 for example.
 
 To edit your Config.php file to edit the currency and some other things:
 
-  nano $PREFIX/var/www/html/data/config.php
+    nano $PREFIX/var/www/html/data/config.php
 
 To restart your grocy server:
 
+
   sv restart php-fpm
+  
   sv restart nginx
 
 
