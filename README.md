@@ -24,5 +24,5 @@ nano $PREFIX/etc/nginx/sites-enabled/default
 
 And change 8080 for 8081 for example.
 
-I 
+
 
